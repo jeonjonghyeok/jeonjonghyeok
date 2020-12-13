@@ -1,8 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeonjonghyeok)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeonjonghyeok&hide=contribs,prs)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeonjonghyeok&count_private=true)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeonjonghyeok&show_icons=true)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeonjonghyeok&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeonjonghyeok&show_icons=true&theme=dracula)
 ### Hi there 👋
 
 <!--
