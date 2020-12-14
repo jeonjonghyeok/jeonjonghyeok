@@ -2,6 +2,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonjonghyeok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I’m currently learning Tsed Framwork with Typescript and Javascript
+- 📫 How to reach me: tongher1685@gmail.com
 <!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
