@@ -1,6 +1,5 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeonjonghyeok&count_private=true&show_icons=true)
-![image](https://user-images.githubusercontent.com/47622475/133277343-4231c9ad-210d-4f39-9c2c-a00f8c2f0e15.png)
-<!--
+![image](https://user-images.githubusercontent.com/47622475/133277494-dbba63da-5832-4624-b400-bb20e7da0edb.png)<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonjonghyeok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 - 🌱 I’m currently learning Golang, Spring
