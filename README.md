@@ -1,5 +1,5 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeonjonghyeok&count_private=true&show_icons=true)
-![image](https://user-images.githubusercontent.com/47622475/133278985-1bb7c6a9-562a-4358-89fd-e773dff129d7.png)
+<!-- ![image](https://user-images.githubusercontent.com/47622475/133278985-1bb7c6a9-562a-4358-89fd-e773dff129d7.png) -->
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonjonghyeok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
